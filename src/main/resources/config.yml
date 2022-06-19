@@ -1,0 +1,4 @@
+ReloadMessage: "&aChatPreview has been reloaded!"
+ChatPreviewFormat: "<%player_name%> {Message}"
+CommandPreviewFormats:
+  "/minecraft:me": "* %player_name% {Message}"

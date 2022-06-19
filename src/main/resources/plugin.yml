@@ -1,0 +1,11 @@
+name: ChatPreview
+version: '${project.version}'
+main: com.loohp.chatpreview.ChatPreview
+api-version: 1.19
+depend: [ProtocolLib, PlaceholderAPI]
+softdepend: [InteractiveChat]
+
+commands:
+  chatpreviewreload:
+    usage: /<command>
+    description: Reload chat preview
